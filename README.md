@@ -6,8 +6,8 @@ The entire workflow, from data analysis to model training and evaluation, is con
 
 ### Final Prediction Examples
 
-![No Mask Prediction](test_images/No Mask Detection.png)
-![Mask Prediction](test_images/Mask Detection.png)
+![No Mask Prediction](test_images/No-Mask-Detection.png)
+![Mask Prediction](test_images/Mask-Detection.png)
 
 ### Project Workflow & Features
 
